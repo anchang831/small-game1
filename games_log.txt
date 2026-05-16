@@ -1,0 +1,2 @@
+2026-05-15 | snake | 贪吃蛇 | snake.py
+2026-05-16 | breakout | 打砖块 | breakout.py
