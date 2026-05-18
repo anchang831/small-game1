@@ -1,4 +1,5 @@
-1→2026-05-15 | snake | 贪吃蛇 | snake.py
-2→2026-05-16 | breakout | 打砖块 | breakout.py
-3→2026-05-16 | 2048 | 数字拼图 | 2048.py
-4→2026-05-17 | plane | 飞机大战 | plane.py
+1→1→2026-05-15 | snake | 贪吃蛇 | snake.py
+2→2→2026-05-16 | breakout | 打砖块 | breakout.py
+3→3→2026-05-16 | 2048 | 数字拼图 | 2048.py
+4→4→2026-05-17 | plane | 飞机大战 | plane.py
+5→5→2026-05-18 | memory | 记忆卡片 | memory.py
