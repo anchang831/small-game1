@@ -7,3 +7,4 @@
 2026-05-20 | tetris | 俄罗斯方块 | tetris.py
 2026-05-21 | maze | 迷宫 | maze.py
 2026-05-22 | match3 | 消消乐 | match3.py
+2026-05-23 | runner | 跑酷游戏 | runner.py
