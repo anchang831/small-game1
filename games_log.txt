@@ -9,3 +9,4 @@
 2026-05-22 | match3 | 消消乐 | match3.py
 2026-05-23 | runner | 跑酷游戏 | runner.py
 2026-05-24 | shooter | 射击游戏 | shooter.py
+2026-05-25 | pong | 双人乒乓球 | pong.py
