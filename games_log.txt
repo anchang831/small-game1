@@ -11,3 +11,4 @@
 2026-05-24 | shooter | 射击游戏 | shooter.py
 2026-05-25 | pong | 双人乒乓球 | pong.py
 2026-05-26 | platformer | 2D平台闯关 | platformer.py
+2026-05-27 | whack_a_mole | 打地鼠 | whack_a_mole.py
