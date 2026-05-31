@@ -14,3 +14,4 @@
 2026-05-27 | whack_a_mole | 打地鼠 | whack_a_mole.py
 2026-05-28 | connect4 | 四子棋 | connect4.py
 2026-05-30 | minesweeper | 扫雷 | minesweeper.py
+2026-05-31 | flappy_bird | 飞扬小鸟 | flappy_bird.py
