@@ -16,3 +16,4 @@
 2026-05-30 | minesweeper | 扫雷 | minesweeper.py
 2026-05-31 | flappy_bird | 飞扬小鸟 | flappy_bird.py
 2026-06-01 | bubble_shooter | 泡泡龙 | bubble_shooter.py
+2026-06-02 | space_invaders | 太空侵略者 | space_invaders.py
