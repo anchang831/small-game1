@@ -18,3 +18,4 @@
 2026-06-01 | bubble_shooter | 泡泡龙 | bubble_shooter.py
 2026-06-02 | space_invaders | 太空侵略者 | space_invaders.py
 2026-06-03 | pacman | 吃豆人 | pacman.py
+2026-06-04 | tank_battle | 坦克大战 | tank_battle.py
