@@ -20,3 +20,4 @@
 2026-06-03 | pacman | 吃豆人 | pacman.py
 2026-06-04 | tank_battle | 坦克大战 | tank_battle.py
 2026-06-05 | gomoku | 五子棋 | gomoku.py
+2026-06-07 | asteroids | 小行星 | asteroids.py
