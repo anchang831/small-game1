@@ -22,3 +22,4 @@
 2026-06-05 | gomoku | 五子棋 | gomoku.py
 2026-06-07 | asteroids | 小行星 | asteroids.py
 2026-06-08 | doodle_jump | 涂鸦跳跃 | doodle_jump.py
+2026-06-09 | sokoban | 推箱子 | sokoban.py
