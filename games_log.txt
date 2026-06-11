@@ -24,3 +24,4 @@
 2026-06-08 | doodle_jump | 涂鸦跳跃 | doodle_jump.py
 2026-06-09 | sokoban | 推箱子 | sokoban.py
 2026-06-10 | bomberman | 炸弹人 | bomberman.py
+2026-06-11 | fruit_ninja | 水果忍者 | fruit_ninja.py
