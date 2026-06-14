@@ -27,3 +27,4 @@
 2026-06-11 | fruit_ninja | 水果忍者 | fruit_ninja.py
 2026-06-12 | pinball | 弹珠台 | pinball.py
 2026-06-13 | racing | 赛车竞速 | racing.py
+2026-06-14 | frogger | 青蛙过河 | frogger.py
