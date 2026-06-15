@@ -28,3 +28,4 @@
 2026-06-12 | pinball | 弹珠台 | pinball.py
 2026-06-13 | racing | 赛车竞速 | racing.py
 2026-06-14 | frogger | 青蛙过河 | frogger.py
+2026-06-15 | air_hockey | 冰球大战 | air_hockey.py
