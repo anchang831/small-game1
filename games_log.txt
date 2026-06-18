@@ -31,3 +31,4 @@
 2026-06-15 | air_hockey | 冰球大战 | air_hockey.py
 2026-06-16 | othello | 黑白棋 | othello.py
 2026-06-17 | sudoku | 数独 | sudoku.py
+2026-06-18 | block_puzzle | 方块拼图(1010) | block_puzzle.py
