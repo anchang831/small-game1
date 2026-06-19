@@ -32,3 +32,4 @@
 2026-06-16 | othello | 黑白棋 | othello.py
 2026-06-17 | sudoku | 数独 | sudoku.py
 2026-06-18 | block_puzzle | 方块拼图(1010) | block_puzzle.py
+2026-06-19 | gold_miner | 黄金矿工 | gold_miner.py
