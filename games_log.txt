@@ -36,3 +36,4 @@
 2026-06-20 | tower_stack | 堆叠高塔 | tower_stack.py
 2026-06-21 | tower_defense | 塔防游戏 | tower_defense.py
 2026-06-22 | peggle | 弹球消除(Peggle) | peggle.py
+2026-06-23 | agario | 球球大作战 | agario.py
