@@ -37,3 +37,4 @@
 2026-06-21 | tower_defense | 塔防游戏 | tower_defense.py
 2026-06-22 | peggle | 弹球消除(Peggle) | peggle.py
 2026-06-23 | agario | 球球大作战 | agario.py
+2026-06-25 | jump_jump | 跳一跳 | jump_jump.py
