@@ -40,3 +40,4 @@
 2026-06-25 | jump_jump | 跳一跳 | jump_jump.py
 2026-06-26 | rhythm | 节奏大师 | rhythm.py
 2026-06-27 | sliding_puzzle | 数字华容道 | sliding_puzzle.py
+2026-06-28 | link_game | 连连看 | link_game.py
