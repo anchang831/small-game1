@@ -1,4 +1,5 @@
 
+2026-07-04 | duck_hunt | 打鸭子(射击) | duck_hunt.py
 2026-07-03 | water_sort | 水排序 | water_sort.py
 2026-07-02 | bowling | 保龄球 | bowling.py
 2026-07-01 | danmaku | 弹幕射击(霓虹弹幕) | danmaku.py
