@@ -1,4 +1,5 @@
 
+2026-07-07 | pool | 台球(美式台球) | pool.py
 2026-07-06 | basketball | 投篮高手 | basketball.py
 2026-07-04 | duck_hunt | 打鸭子(射击) | duck_hunt.py
 2026-07-05 | snowball_fight | 雪仗大战(躲避射击) | snowball_fight.py
