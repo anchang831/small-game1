@@ -1,4 +1,5 @@
 
+2026-07-09 | zuma | 祖玛(彩色球消除) | zuma.py
 2026-07-08 | lunar_lander | 月球着陆器(物理模拟) | lunar_lander.py
 2026-07-07 | pool | 台球(美式台球) | pool.py
 2026-07-06 | basketball | 投篮高手 | basketball.py
