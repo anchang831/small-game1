@@ -1,4 +1,5 @@
 
+2026-07-11 | suika | 合成大西瓜(水果合并物理) | suika.py
 2026-07-10 | battleship | 海战棋(经典战舰对战) | battleship.py
 2026-07-09 | zuma | 祖玛(彩色球消除) | zuma.py
 2026-07-08 | lunar_lander | 月球着陆器(物理模拟) | lunar_lander.py
