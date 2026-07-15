@@ -1,4 +1,5 @@
 
+2026-07-15 | angry_birds | 愤怒的小鸟(弹弓物理射击) | angry_birds.py
 2026-07-14 | survivor | 吸血鬼幸存者(类幸存者生存) | survivor.py
 2026-07-13 | puyo | 噗哟噗哟(连锁消除) | puyo.py
 2026-07-11 | suika | 合成大西瓜(水果合并物理) | suika.py
