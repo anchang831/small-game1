@@ -58,3 +58,4 @@
 2026-06-29 | piano_tiles | 别踩白块(钢琴块) | piano_tiles.py
 2026-06-30 | aim_trainer | 瞄准训练 | aim_trainer.py
 2026-07-16 | helix_jump | 螺旋跳(旋转平台弹跳下落) | helix_jump.py
+2026-07-17 | blackjack | 21点(经典赌场纸牌对战) | blackjack.py
