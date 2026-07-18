@@ -59,3 +59,4 @@
 2026-06-30 | aim_trainer | 瞄准训练 | aim_trainer.py
 2026-07-16 | helix_jump | 螺旋跳(旋转平台弹跳下落) | helix_jump.py
 2026-07-17 | blackjack | 21点(经典赌场纸牌对战) | blackjack.py
+2026-07-18 | tron | 光轮摩托(双人光轮对战) | tron.py
