@@ -63,3 +63,4 @@
 2026-07-17 | blackjack | 21点(经典赌场纸牌对战) | blackjack.py
 2026-07-18 | tron | 光轮摩托(双人光轮对战) | tron.py
 2026-07-19 | stick_hero | 火柴人英雄(搭桥跨越平台) | stick_hero.py
+2026-07-22 | color_breakout | 颜色打砖块(颜色匹配益智打砖块) | color_breakout.py
