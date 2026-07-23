@@ -1,4 +1,5 @@
 
+2026-07-23 | solitaire | 纸牌接龙(Klondike Solitaire经典纸牌) | solitaire.py
 2026-07-21 | wordle | 猜词游戏(Wordle单词猜谜) | wordle.py
 2026-07-20 | plinko | 弹珠机(Plinko经典弹珠) | plinko.py
 2026-07-15 | angry_birds | 愤怒的小鸟(弹弓物理射击) | angry_birds.py
