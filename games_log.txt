@@ -1,4 +1,5 @@
 
+2026-07-25 | bubble_trouble | 泡泡大作战(Bubble Trouble泡泡分裂射击) | bubble_trouble.py
 2026-07-24 | fishing | 钓鱼大师(Fishing Master钓鱼模拟) | fishing.py
 2026-07-23 | solitaire | 纸牌接龙(Klondike Solitaire经典纸牌) | solitaire.py
 2026-07-21 | wordle | 猜词游戏(Wordle单词猜谜) | wordle.py
