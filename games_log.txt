@@ -1,4 +1,5 @@
 
+2026-07-29 | simon | 西蒙说(Simon Says经典记忆序列挑战) | simon.py
 2026-07-28 | golf | 高尔夫(2D物理高尔夫9洞模拟) | golf.py
 2026-07-27 | darts | 飞镖游戏(Darts 501经典飞镖计分) | darts.py
 2026-07-26 | chess | 国际象棋(Chess经典策略棋类) | chess.py
