@@ -1,5 +1,5 @@
 
-2026-08-02 | lights_out | 关灯游戏(Lights Out经典电子谜题) | lights_out.py
+2026-08-03 | slither_io | 蛇蛇大作战(Slither.io .io风格蛇蛇对战) | slither_io.py
 2026-08-01 | tennis | 网球对战(Tennis经典网球模拟) | tennis.py
 2026-07-31 | pipe_puzzle | 接水管(Pipe Puzzle管道连通益智) | pipe_puzzle.py
 2026-07-30 | typing_war | 打字大战(Typing War单词输入射击) | typing_war.py
