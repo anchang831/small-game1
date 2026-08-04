@@ -1,4 +1,5 @@
 
+2026-08-04 | hangman | 猜单词(Hangman经典刽子手猜词) | hangman.py
 2026-08-03 | slither_io | 蛇蛇大作战(Slither.io .io风格蛇蛇对战) | slither_io.py
 2026-08-01 | tennis | 网球对战(Tennis经典网球模拟) | tennis.py
 2026-07-31 | pipe_puzzle | 接水管(Pipe Puzzle管道连通益智) | pipe_puzzle.py
