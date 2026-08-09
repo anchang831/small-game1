@@ -80,3 +80,4 @@
 2026-07-18 | tron | 光轮摩托(双人光轮对战) | tron.py
 2026-07-19 | stick_hero | 火柴人英雄(搭桥跨越平台) | stick_hero.py
 2026-07-22 | color_breakout | 颜色打砖块(颜色匹配益智打砖块) | color_breakout.py
+2026-08-09 | dr_mario | 马里奥医生(Dr. Mario药丸消除病毒益智) | dr_mario.py
