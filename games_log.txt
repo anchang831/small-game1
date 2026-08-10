@@ -1,4 +1,5 @@
 
+2026-08-10 | knife_hit | 飞刀挑战(Knife Hit旋转圆木投掷飞刀) | knife_hit.py
 2026-08-08 | hexagon | 超六边形(Hexagon Survival旋转躲避生存) | hexagon.py
 2026-08-07 | nonogram | 数织像素拼图(Nonogram逻辑推理填色) | nonogram.py
 2026-08-06 | checkers | 西洋跳棋(Checkers经典策略棋盘AI对战) | checkers.py
