@@ -1,4 +1,5 @@
 
+2026-08-24 | artillery | 火炮对决(Artillery Duel双人回合制火炮对战风力地形破坏) | artillery.py
 2026-08-22 | cricket | 板球击球对战(Cricket体育竞技精准击球跑分) | cricket.py
 2026-08-20 | soccer | 2D足球对战(Soccer双人足球物理对抗先得5分获胜) | soccer.py
 2026-08-18 | archery | 射箭(Archery风力物理抛物线瞄准) | archery.py
