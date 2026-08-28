@@ -1,4 +1,5 @@
 
+2026-08-28 | color_switch | 颜色跳跳(Color Switch点击跳跃穿过匹配颜色的旋转圆环) | color_switch.py
 2026-08-26 | pop_star | 消灭星星(Pop Star点击消除益智重力下落) | pop_star.py
 2026-08-25 | galaga | 大蜜蜂(Galaga经典街机射击编队俯冲双倍火力) | galaga.py
 2026-08-24 | artillery | 火炮对决(Artillery Duel双人回合制火炮对战风力地形破坏) | artillery.py
