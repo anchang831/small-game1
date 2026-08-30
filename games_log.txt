@@ -1,4 +1,5 @@
 
+2026-08-30 | tictactoe | 井字棋(Tic Tac Toe 玩家vsAI Minimax完美算法) | tictactoe.py
 2026-08-29 | baseball | 棒球打击训练(Baseball投手投球挥棒击球跑垒得分) | baseball.py
 2026-08-28 | color_switch | 颜色跳跳(Color Switch点击跳跃穿过匹配颜色的旋转圆环) | color_switch.py
 2026-08-26 | pop_star | 消灭星星(Pop Star点击消除益智重力下落) | pop_star.py
